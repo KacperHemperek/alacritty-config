@@ -1,0 +1,27 @@
+import = [
+  '~/.local/share/nvim/lazy/tokyonight.nvim/extras/alacritty/tokyonight_night.toml'
+]
+
+[[colors.indexed_colors]]
+index = 18
+color = '#252735'
+
+[[colors.indexed_colors]]
+index = 19
+color = '#333649'
+
+[window]
+padding.x = 8
+padding.y = 8
+
+decorations = 'Buttonless'
+
+dimensions.columns = 100
+dimensions.lines = 32
+
+[font]
+normal.family = 'Consolas 7NF'
+offset.y = 2
+size = 19
+
+
